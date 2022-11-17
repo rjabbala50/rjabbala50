@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T14:14:12.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kCXE9owdSKHseq1HJcYE" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-17T14:14:55.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ucjQ6Rrn9AS9uqUfmyza" version="20.5.3" type="github" pages="2">
   <diagram id="iTJbgFQ7iRhdTtJBEvMc" name="Page-1">
     <mxGraphModel dx="1118" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="QU8bWg5eS6Y1XLZIbmgW-1" value="GET /waynew/products/&lt;br&gt;Request: &lt;br&gt;{&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;userid: u123&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;searchString: &quot;All Electronic products&quot;&lt;br&gt;&lt;br&gt;}&lt;br&gt;Response:&lt;br&gt;{&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;userid: u123&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;Products:&amp;nbsp;&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;[&amp;nbsp; {pid: 111, name: P1, price: 123, status: available},&lt;br&gt;&amp;nbsp; {pid:112, name: P2, price: 124, status: NA}&lt;br&gt;]&lt;br&gt;pagenumber: 1&lt;br&gt;pagesize:10&lt;br&gt;Totalproducts: 100&lt;br&gt;&lt;br&gt;}" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="50" width="290" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="QU8bWg5eS6Y1XLZIbmgW-2" value="POST /waynew/add/&lt;br&gt;Request: &lt;br&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;userid: u123&lt;br&gt;&lt;br&gt;}&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="QU8bWg5eS6Y1XLZIbmgW-2" value="Way" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="50" width="310" height="320" as="geometry" />
         </mxCell>
       </root>
